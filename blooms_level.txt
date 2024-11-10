@@ -1,0 +1,6 @@
+101 REM 1 Remembering
+102 UND 2 Understanding
+103 APP 3 Applying
+104 ANA 4 Analyzing
+105 EVAL 5 Evaluating
+106 CRE 6 Creating
