@@ -1,7 +1,7 @@
 
-# 404Error_blooms_level
+# blooms_level
 
-Welcome to **404Error_blooms_level** – a project inspired by the Bloom's Taxonomy learning framework! This repository aims to provide a structured approach to enhance your learning and understanding. Whether you’re a beginner or an advanced learner, there’s something here for everyone.
+Welcome to **blooms_level** – a project inspired by the Bloom's Taxonomy learning framework! This repository aims to provide a structured approach to enhance your learning and understanding. Whether you’re a beginner or an advanced learner, there’s something here for everyone.
 
 ---
 
@@ -50,7 +50,7 @@ Bloom's Taxonomy is a hierarchy that classifies learning objectives into levels,
 ## 📂 Repository Structure
 
 ```plaintext
-404Error_blooms_level
+blooms_level
 │
 ├── Remembering
 │   ├── README.md
